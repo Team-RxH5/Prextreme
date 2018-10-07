@@ -17,3 +17,6 @@ Solution for the UCSC Prextreme by Team RxH5
 * [Sashika Nawrathne](https://github.com/Sashika269)
 * [Oshan Mendis](https://github.com/Oshan96)
 * [Udesh Kumarasignhe](https://github.com/UdeshUK)
+
+## License
+Apache 2.0. See the [LICENSE](https://github.com/Team-RxH5/Prextreme/blob/master/LICENSE) file for details.
