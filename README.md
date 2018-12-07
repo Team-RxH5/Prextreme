@@ -13,7 +13,7 @@ Solution for the UCSC Prextreme by Team RxH5
 * Matching Pairs
 * Luckey Ticket
 
-## Contirbuters
+## Contributers
 * [Sashika Nawrathne](https://github.com/Sashika269)
 * [Oshan Mendis](https://github.com/Oshan96)
 * [Udesh Kumarasignhe](https://github.com/UdeshUK)
